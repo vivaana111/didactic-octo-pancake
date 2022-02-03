@@ -1,0 +1,19 @@
+body{
+    font-family:  'Pacifico', cursive;
+    background-color:mediumvioletred;
+}
+.header_div{
+    background-color:deeppink ;
+}
+.header_div p{
+    background-color: linear-gradient(lightpink, orange);
+    letter-spacing: normal;
+
+}
+.copy_right_footer {
+    font-style: unset;
+    font-family: unset;
+    letter-spacing:unset;
+    text-align: center;
+}
+
